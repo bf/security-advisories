@@ -1,3 +1,3 @@
-# Security advisories for vulnerabilities
+# Security advisories
 
-This repo contains details about vulnerabilities I have found. 
+This repository will detail some of the vulnerabilities I have found.
